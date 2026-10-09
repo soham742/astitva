@@ -18,7 +18,7 @@ export function HeroSection() {
         </h1>
 
         <p className="mt-6 text-balance font-display text-base tracking-[0.15em] text-cyan sm:text-xl">
-          {'“Where Ideas Collide, Imagination Comes Alive.”'}
+          {'“EMERGENCE BEYOND EXISTENCE.”'}
         </p>
 
         <div className="mt-[min(26vh,14rem)] flex flex-col items-center gap-6">
